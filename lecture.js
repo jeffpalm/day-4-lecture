@@ -102,7 +102,7 @@ const wordsArr = [
 function makeMeASentance(arr) {
   let newStr = "";
   for (let i = 0; i < arr.length; i++) {
-    newStr = newStr + " " + arr[i];
+    newStr = `${newStr} ${arr[i]}`;
   }
   return newStr;
 }
