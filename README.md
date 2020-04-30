@@ -1,0 +1,1 @@
+# Following along with JavaScript Day 2 lecture
